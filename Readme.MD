@@ -15,7 +15,7 @@ This project uses the **ESP8266** development board to create a **fake Gmail sig
 - Computer with **Arduino IDE** installed
 
 ## URL FOR THE BOARD
-- In Arduino IDE Navigate to file>>preferences>>Additional Boards Manager URLs: and the past the following link:
+- In Arduino IDE Navigate to file>>preferences>>Additional Boards Manager URLs and then paste the following link:
 https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
 
 ## Software Requirements
