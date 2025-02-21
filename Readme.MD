@@ -29,9 +29,9 @@ https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32
 2. Add **ESP8266 board support** via **Boards Manager** in Arduino IDE.
 3. Install the required **ESP8266 libraries**.
 4. Clone this repository: or you can just download it as zip file
--extract zip file
--open the fake-gmail-sign-page-main folder
--inside the folder you'll see file named "signin.ino" just open it and continue from step 6
+- extract zip file
+- open the fake-gmail-sign-page-main folder
+- inside the folder you'll see file named "signin.ino" just open it and continue from step 6
 5. Open the `.ino` file in Arduino IDE.
 6. Select the correct **ESP8266 board** and **COM port**.
 7. Compile and upload the sketch to the ESP8266.
