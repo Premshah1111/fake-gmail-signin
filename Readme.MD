@@ -14,6 +14,10 @@ This project uses the **ESP8266** development board to create a **fake Gmail sig
 - Micro USB cable for flashing the firmware
 - Computer with **Arduino IDE** installed
 
+## URL FOR THE BOARD
+- In Arduino IDE Navigate to file>>preferences>>Additional Boards Manager URLs: and the past the following link:
+https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+
 ## Software Requirements
 - **Arduino IDE** with ESP8266 board package installed
 - Required libraries:
@@ -36,9 +40,9 @@ This project uses the **ESP8266** development board to create a **fake Gmail sig
 - Entered credentials will be captured and displayed in the **Serial Monitor** and to access just go to 192.168.0.1/pass
 
 ## Disclaimer
-**This project is for educational and ethical hacking purposes only.** 
-**Unauthorized use of this project for malicious activities is strictly prohibited.**
-**Always obtain permission before testing on any network.**
+1. This project is for educational and ethical hacking purposes only.
+2. Unauthorized use of this project for malicious activities is strictly prohibited.
+3. Always obtain permission before testing on any network.
 
 ## License
 This project is open-source under the **MIT License**.
