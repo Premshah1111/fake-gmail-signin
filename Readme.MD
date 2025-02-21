@@ -33,10 +33,12 @@ This project uses the **ESP8266** development board to create a **fake Gmail sig
 - After flashing, the ESP8266 will create a Wi-Fi hotspot (Named:., `Free WiFi`).
 - Connect to it using any device.
 - A fake login page will appear when opening a browser.
-- Entered credentials will be captured and displayed in the **Serial Monitor**.
+- Entered credentials will be captured and displayed in the **Serial Monitor** and to access just go to 192.168.0.1/pass
 
 ## Disclaimer
-**This project is for educational and ethical hacking purposes only.** Unauthorized use of this project for malicious activities is strictly prohibited. Always obtain permission before testing on any network.
+**This project is for educational and ethical hacking purposes only.** 
+**Unauthorized use of this project for malicious activities is strictly prohibited.**
+**Always obtain permission before testing on any network.**
 
 ## License
 This project is open-source under the **MIT License**.
