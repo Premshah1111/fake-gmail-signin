@@ -16,7 +16,7 @@ This project uses the **ESP8266** development board to create a **fake Gmail sig
 
 ## URL FOR THE BOARD
 - In Arduino IDE Navigate to file>>preferences>>Additional Boards Manager URLs and then paste the following link:
-https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 ## Software Requirements
 - **Arduino IDE** with ESP8266 board package installed
@@ -40,7 +40,7 @@ https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32
 - After flashing, the ESP8266 will create a Wi-Fi hotspot (Named:., `Free WiFi`).
 - Connect to it using any device.
 - A fake login page will appear when opening a browser.
-- Entered credentials will be captured and displayed in the **Serial Monitor** and to access just go to 192.168.0.1/pass
+- Entered credentials will be captured and displayed in the **Serial Monitor** and to access just go to 172.0.0.1/pass
 
 ## Disclaimer
 1. This project is for educational and ethical hacking purposes only.
