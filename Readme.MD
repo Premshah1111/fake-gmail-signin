@@ -51,4 +51,4 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
 This project is open-source under the **MIT License**.
 
 ---
-🚀 **Created by premshah1111**
+🚀 **Created by TheBinaryGhost**
